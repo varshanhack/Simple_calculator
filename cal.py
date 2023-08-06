@@ -21,5 +21,5 @@ while True:
     else:
         print("Invalid input...")
     print("")
-    input("Press any key to continue...")
+    input("Press enter to continue...")
     subprocess.run("cls",shell=True)
